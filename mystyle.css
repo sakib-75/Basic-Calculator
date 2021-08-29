@@ -20,7 +20,7 @@ input:hover{
 
 .container{
 	height: auto;
-	width: 300px;
+	width: auto;
 	padding: 20px;
 	position: fixed;
 	top: 50%;
@@ -36,6 +36,7 @@ input:hover{
 	width: 237px;
 	padding: 5px 10px;
 	background-color: aquamarine;
+	border: 2px solid rgb(204, 207, 207);
 	box-sizing: border-box;
 	color: black;
 	cursor: text;
